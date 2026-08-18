@@ -16,3 +16,11 @@
 - p007_OperadoresAsignacion
 - p008_FuncionesTrigonometricas
 - p009_DividirEnCifras
+
+## Practica 2
+- p010_HipotenusaTriangulo
+- p011_CalcularAngulo
+- p012_ConvertirTemperatura
+- p013_VolumenCilindro
+- p014_CalculoTiempo
+- p015_ConvertirADolares
