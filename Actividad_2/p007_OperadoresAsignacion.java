@@ -8,7 +8,9 @@ public class p007_OperadoresAsignacion {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J");
         System.out.print("Dame un numero ? ");
-        float num = new Scanner(System.in).nextInt();
+        Scanner obj = new Scanner(System.in);
+        float num = obj.nextFloat();
+        //float num = new Scanner(System.in).nextInt();
         System.out.printf("El numero original es : %.2f \n", num);
         System.out.printf("Incremantar 1 : %.2f \n", ++num);
         System.out.printf("Sumar 80 : %.2f \n", num+=80);
@@ -16,6 +18,7 @@ public class p007_OperadoresAsignacion {
         System.out.printf("Multiplicar por 15 : %.2f \n", num*=15);
         System.out.printf("Dividir entre 4 : %.2f \n", num/=4);
         System.out.printf("Decrementar 1 : %.2f \n", --num);
+        obj.close();
     }
 }
 

@@ -9,7 +9,9 @@ public class p009_DividirEnCifras {
         System.out.print("\033[H\033[2J");
         int num, unidades, decenas, centenas;
         System.out.println("Dame un numero entero de 3 cifra: ");
-        num = new Scanner(System.in).nextInt();
+        Scanner obj = new Scanner(System.in);
+        num = obj.nextInt();
+        //num = new Scanner(System.in).nextInt();
         centenas = num / 100 ;
         decenas = ( num - centenas * 100) / 10 ;
         unidades = ( num - (centenas * 100 + decenas * 10) );
@@ -17,5 +19,6 @@ public class p009_DividirEnCifras {
         System.out.println("Centenas : " + centenas);
         System.out.println("Decenas : " + decenas);
         System.out.println("Unidades : " + unidades);
+        obj.close();
     }
 }
