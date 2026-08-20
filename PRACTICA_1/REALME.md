@@ -24,3 +24,10 @@
 - p013_VolumenCilindro
 - p014_CalculoTiempo
 - p015_ConvertirADolares
+
+## Actividad 3 
+- p016_TrabajandoEnteros
+- p017_TrabajandoFlotantes
+- p018_TrabajandoConstantes
+- p019_TrabajandoCaracteres
+- p020_ConversionTipos
