@@ -43,3 +43,9 @@
 - p026_TipoAngulo
 - p027_AceptarEstudiante
 - p028_LeyDeNewton
+
+## Actividad 6
+- p029_Calculadora
+- p030_DiaSemana
+- p031_NumerosRomanos
+- p032_PagoEstacionamiento
