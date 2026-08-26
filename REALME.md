@@ -49,3 +49,11 @@
 - p030_DiaSemana
 - p031_NumerosRomanos
 - p032_PagoEstacionamiento
+
+## Practica 3
+- p033_NumerosConsecutivos
+- p034_NumeroMayor
+- p035_ContinentesMundo
+- p036_CompraPizza
+- p037_CalculoNotas
+- p038_AceptarEstudianteV2
