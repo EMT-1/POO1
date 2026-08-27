@@ -57,3 +57,10 @@
 - p036_CompraPizza
 - p037_CalculoNotas
 - p038_AceptarEstudianteV2
+
+## Actividad 7
+- p039_Numeros1a100
+- p040_Numeros100a1
+- p041_ProcesaCalificaciones
+- p042_TablaMultiplicar
+- p043_ConteoNumeros
