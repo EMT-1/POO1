@@ -64,3 +64,9 @@
 - p041_ProcesaCalificaciones
 - p042_TablaMultiplicar
 - p043_ConteoNumeros
+
+## Actividad 8
+- p044_ParesAscendente
+- p045_ImparesDescendente
+- p046_TablaConversion
+- p047_ConjeturaCollatz
