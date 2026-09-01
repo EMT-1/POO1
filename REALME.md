@@ -70,3 +70,10 @@
 - p045_ImparesDescendente
 - p046_TablaConversion
 - p047_ConjeturaCollatz
+
+## Actividad 9
+- p052_Numeros1aN
+- p053_NumerosNa1
+- p054_ArribaAbajo
+- p055_SumaParesImpares
+- p056_SumaPromedio
