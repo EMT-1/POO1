@@ -71,6 +71,12 @@
 - p046_TablaConversion
 - p047_ConjeturaCollatz
 
+## Practica 4
+- p048_ImparesAscendente
+- p049_ParesDescendente
+- p050_ConversionTemperaturas
+- p051_SerieFibonaci
+
 ## Actividad 9
 - p052_Numeros1aN
 - p053_NumerosNa1
