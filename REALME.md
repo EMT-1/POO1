@@ -83,3 +83,9 @@
 - p054_ArribaAbajo
 - p055_SumaParesImpares
 - p056_SumaPromedio
+
+## Actividad 10
+- p057_TablasMultiplicar
+- p058_Piramide
+- p059_FactorialNumeros
+- p060_SumaTerminos
