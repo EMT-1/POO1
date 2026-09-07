@@ -89,3 +89,9 @@
 - p058_Piramide
 - p059_FactorialNumeros
 - p060_SumaTerminos
+
+## Practica 5
+- p061_SecuenciaNumeros1
+- p062_SecuenciaNumeros2
+- p063_SumaTerminos1
+- p064_SumaTerminos2
