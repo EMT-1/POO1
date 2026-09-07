@@ -95,3 +95,10 @@
 - p062_SecuenciaNumeros2
 - p063_SumaTerminos1
 - p064_SumaTerminos2
+
+## Actividad 11
+- p065_PromedioNumeros
+- p066_ConversionTemperaturas
+- p067_SumaRango
+- p068_TablaMultiplicar
+- p069_CalificacionLetra
