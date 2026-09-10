@@ -102,3 +102,10 @@
 - p067_SumaRango
 - p068_TablaMultiplicar
 - p069_CalificacionLetra
+
+## Actividad 12
+- p070_MayorTresNumeros
+- p071_SumaDigitos
+- p072_SumaParesImpares
+- p073_Factorial
+- p074_CuadroCaracter
