@@ -112,3 +112,10 @@
 
 ## Examen 1
 - p080_SimuladorFinanciero
+
+## Actividad 13
+- p081_InicializaArregloNumeros
+- p082_InicializaArregloCadenas
+- p083_InicializaNombresEdades
+- p084_LeerArregloCalificaciones
+- p085_NombresEdades
