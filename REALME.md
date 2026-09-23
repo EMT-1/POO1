@@ -125,3 +125,9 @@
 - p087_ArregloTemperaturas
 - p088_Aleatorios
 - p089_ArregloAleatorios
+
+## Prcatica 7
+- p090_Temperaturas
+- p091_MayoresPromedio
+- p092_MayorMenor
+- p093_ParesImpares 
