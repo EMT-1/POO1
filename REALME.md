@@ -142,3 +142,8 @@
 - p098_Circulo
 - p099_Rectangulo
 - p100_Articulo 
+
+## Actividad 16
+- p101_TrabajoPersona
+- p102_AutorLibro
+- p103_ClienteFactura
