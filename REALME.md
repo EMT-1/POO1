@@ -163,3 +163,6 @@
 
 ## Actividad 18
 - p111_CuentaBancariaV1 
+
+## Actividad 19
+- p112_CuentaBancariaV2
