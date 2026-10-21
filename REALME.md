@@ -176,6 +176,12 @@
 ## Examen 2
 - p115_SegundoExamenParcial 
 
+## Actividad 21
+- p116_Animal
+- p117_Telefono
+- p118_Juego
+- p119_FiguraGeometrica
+
 ## Practica 12
 - p120_SistemaPagos
 - p121_MonitoreoSensores
