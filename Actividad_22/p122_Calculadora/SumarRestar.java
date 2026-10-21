@@ -1,0 +1,6 @@
+package Actividad_22.p122_Calculadora;
+
+public interface SumarRestar {
+    public void sumar(double x, double y);
+    public void restar(double x, double y);
+}

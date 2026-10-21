@@ -185,3 +185,7 @@
 ## Practica 12
 - p120_SistemaPagos
 - p121_MonitoreoSensores
+
+## Actividad 22
+- p122_Calculadora
+- p123_Organismo
