@@ -175,3 +175,7 @@
 
 ## Examen 2
 - p115_SegundoExamenParcial 
+
+## Practica 12
+- p120_SistemaPagos
+- p121_MonitoreoSensores
