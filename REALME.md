@@ -192,3 +192,12 @@
 
 ## Practica 13
 - p124_Vehiculo
+
+## Actividad 23
+- p125_Excepcion1
+- p126_Excepcion2
+- p127_Excepcion3
+- p128_Excepcion4
+- p129_Excepcion5
+- p130_Excepcion6
+- p131_MiExcepcion
