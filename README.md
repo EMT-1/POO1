@@ -201,3 +201,9 @@
 - p129_Excepcion5
 - p130_Excepcion6
 - p131_MiExcepcion
+
+# Practica 14
+- p132_ExcepcionRaiz
+- p133_ExcepcionDulces
+- p134_ExcepcionEdades
+- p135_ExcepcionTemperatura
