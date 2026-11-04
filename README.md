@@ -213,3 +213,7 @@
 - p137_Archivos2
 - p138_Archivos3
 - p139_Archivos4
+
+## Actividad 25
+- p140_Archivos5
+- p141_Archivos6
