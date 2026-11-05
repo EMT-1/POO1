@@ -217,3 +217,8 @@
 ## Actividad 25
 - p140_Archivos5
 - p141_Archivos6
+
+## Actividad 26
+- p142_Archivos7(Persona)
+- p142_Archivos7(Procesa)
+- p142_Archivos7(App)
