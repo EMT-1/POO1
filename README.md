@@ -110,6 +110,13 @@
 - p073_Factorial
 - p074_CuadroCaracter
 
+## Practica 6
+- p075_NumeroMenor
+- p076_DiaSemana
+- p077_MedidasLongitud
+- p078_SumaMultiplos
+- p079_Angulo
+
 ## Examen 1
 - p080_SimuladorFinanciero
 
